@@ -10,3 +10,6 @@
  - Gate
  - Stick
  - Spring & Washer
+
+## Bowl and Encoders
+  Encoders are those plastic little wheels, that sit the arms aronud the base of the bowl. The encoders should spin freely in the bowl's housing. There should be minimal side-to-side movement and should not tilt too much. The wheels in [this example](insert link here)
